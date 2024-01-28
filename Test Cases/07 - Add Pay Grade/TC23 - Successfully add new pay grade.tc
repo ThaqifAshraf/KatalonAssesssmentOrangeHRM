@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully add new pay grade in to the system and record the result</description>
+   <name>TC23 - Successfully add new pay grade</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6abe8b1e-3443-4772-9094-105b4a7fff72</testCaseGuid>
+</TestCaseEntity>

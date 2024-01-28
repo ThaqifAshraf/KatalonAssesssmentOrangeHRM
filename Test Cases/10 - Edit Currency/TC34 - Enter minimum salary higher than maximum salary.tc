@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to enter minimum salary higher than maximum salary</description>
+   <name>TC34 - Enter minimum salary higher than maximum salary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>daca1530-c0ed-479a-b229-fa85241b2cc5</testCaseGuid>
+</TestCaseEntity>

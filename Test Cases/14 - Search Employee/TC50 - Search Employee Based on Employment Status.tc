@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case.  User has to search employee based on employment status and record the result</description>
+   <name>TC50 - Search Employee Based on Employment Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba12472d-17f1-414a-b0ae-2b5a8838b8a5</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully repalce the currency and record thre result</description>
+   <name>TC33 - Replace the currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3d6d107-5f25-41ab-8c94-1efe33173644</testCaseGuid>
+</TestCaseEntity>

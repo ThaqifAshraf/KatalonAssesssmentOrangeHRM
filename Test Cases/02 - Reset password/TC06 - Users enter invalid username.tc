@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User need to enter an invalid username to reset password</description>
+   <name>TC06 - Users enter invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5816e65b-b314-4010-b312-f5d802232331</testCaseGuid>
+</TestCaseEntity>

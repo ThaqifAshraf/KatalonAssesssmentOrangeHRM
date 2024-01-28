@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a call test as it start from login, goes on to admin then ends with job category</description>
+   <name>Login-Admin-JobCategory</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5427fa3-780b-4560-8024-096b5eb554bd</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. The user need to enter and search a valid username and it will shows us the result</description>
+   <name>TC07 - Users enter valid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9eac28aa-9fdd-46ec-befe-b7f3825b8d34</testCaseGuid>
+</TestCaseEntity>

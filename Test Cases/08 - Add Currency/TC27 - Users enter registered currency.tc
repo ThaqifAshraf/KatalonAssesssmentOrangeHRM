@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User will have to enter an already registered currency and record the result</description>
+   <name>TC27 - Users enter registered currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b03e1142-c877-4e6f-8450-76a401942b68</testCaseGuid>
+</TestCaseEntity>

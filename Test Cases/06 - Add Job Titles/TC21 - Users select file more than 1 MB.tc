@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User has to select a file more than 1 MB and record the result</description>
+   <name>TC21 - Users select file more than 1 MB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ad4a4bef-544f-437d-8a05-156d8d541a8e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7a7a0b60-1532-4b15-b036-8b693695df0f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\60113\\\\Downloads\\\\PSDM.pdf'</defaultValue>
+      <description></description>
+      <id>7a7a0b60-1532-4b15-b036-8b693695df0f</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

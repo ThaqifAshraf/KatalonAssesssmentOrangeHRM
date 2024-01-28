@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully delete an account and record the results</description>
+   <name>TC17 - Successfully delete account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f36da742-503a-49de-82e9-8c1a5c9caa2e</testCaseGuid>
+</TestCaseEntity>

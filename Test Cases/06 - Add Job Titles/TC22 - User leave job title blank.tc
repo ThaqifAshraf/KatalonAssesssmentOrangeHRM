@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to leave the job title blank and record its result</description>
+   <name>TC22 - User leave job title blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca4f905c-1cc7-49cf-8ead-4b06bfcbdc45</testCaseGuid>
+</TestCaseEntity>

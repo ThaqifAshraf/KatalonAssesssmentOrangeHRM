@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a call test that lets the automation goes into login, click on admin and then click on the &quot;Add User&quot; button</description>
+   <name>Login-Admin-AddUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00423037-f01f-404d-8b7a-91200c1d1fe6</testCaseGuid>
+</TestCaseEntity>

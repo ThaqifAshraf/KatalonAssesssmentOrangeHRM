@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to enter an already register job title into the system and record the result.</description>
+   <name>TC20 - Users enter registered job title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>664edd7b-e7e0-4acb-8499-3dd580f9e904</testCaseGuid>
+</TestCaseEntity>

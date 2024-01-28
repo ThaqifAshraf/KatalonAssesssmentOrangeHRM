@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to delete more than job category</description>
+   <name>TC38 - Delete more than job category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>024e51a7-703f-4349-87fd-8227e125afbb</testCaseGuid>
+</TestCaseEntity>

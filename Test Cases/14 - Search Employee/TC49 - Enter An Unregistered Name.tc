@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to search an unregistered name from the system and record the result</description>
+   <name>TC49 - Enter An Unregistered Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09107f53-d2c4-499a-8f83-40e7e64080b3</testCaseGuid>
+</TestCaseEntity>

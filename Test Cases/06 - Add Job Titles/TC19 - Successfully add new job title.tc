@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully add a new job title into the system and record its result</description>
+   <name>TC19 - Successfully add new job title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>294fc59b-97a4-4933-8300-653a9e310f47</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2ee364fc-a083-441f-a8cb-e5f0a045ba8c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2ee364fc-a083-441f-a8cb-e5f0a045ba8c</id>
+      <masked>false</masked>
+      <name>jobTitle</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a call test for user to login and enter the username and password, go towards admin and click on job to enter pay grades interface</description>
+   <name>Login-Admin-PayGrades</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5423a11e-6c25-4fcf-8955-01bce7afac30</testCaseGuid>
+</TestCaseEntity>

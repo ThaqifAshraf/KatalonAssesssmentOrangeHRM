@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdownlist_JobTitle</name>
+   <tag></tag>
+   <elementGuidId>0d0bb5b9-18a2-48dc-ba6a-b5d51d40d5c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-select-dropdown.--positon-bottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div/div[2]/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6991b9bb-d995-4d65-9700-7d759a20561a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>c6e32d24-1881-40ae-8556-448437cce50a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-select-dropdown --positon-bottom</value>
+      <webElementGuid>8998d056-c820-46e4-a476-0bd9d043a0b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7e97919e-0138-4a2a-a0a6-f720bf6adc03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Select --Account AssistantChief Executive OfficerChief Financial OfficerChief Technical OfficerContent SpecialistCustomer Success ManagerDatabase AdministratorFinance ManagerFinancial AnalystHead of SupportHR AssociateHR ManagerIT ManagerNetwork AdministratorPayroll AdministratorPre-Sales CoordinatorQA EngineerQA LeadSales RepresentativeSocial Media MarketerSoftware ArchitectSoftware EngineerSupport SpecialistVP - Client ServicesVP - Sales &amp; Marketing</value>
+      <webElementGuid>8aa55901-136c-4a63-8ce4-a8033f77bbfb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-select-wrapper&quot;]/div[@class=&quot;oxd-select-dropdown --positon-bottom&quot;]</value>
+      <webElementGuid>91642c96-9d7c-4022-8b66-57fd9b3de38a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div/div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>5ebdc29b-2400-4fa8-bee9-94fb598cd932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[1]/following::div[2]</value>
+      <webElementGuid>ac7dc2be-4ef0-4229-bbb8-391a02250125</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Title'])[1]/following::div[6]</value>
+      <webElementGuid>da293216-95e3-416f-94dc-5e2344fc57fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div[2]</value>
+      <webElementGuid>d27bc1c0-a8ba-4f5e-b2ef-6c0372c67f07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '-- Select --Account AssistantChief Executive OfficerChief Financial OfficerChief Technical OfficerContent SpecialistCustomer Success ManagerDatabase AdministratorFinance ManagerFinancial AnalystHead of SupportHR AssociateHR ManagerIT ManagerNetwork AdministratorPayroll AdministratorPre-Sales CoordinatorQA EngineerQA LeadSales RepresentativeSocial Media MarketerSoftware ArchitectSoftware EngineerSupport SpecialistVP - Client ServicesVP - Sales &amp; Marketing' or . = '-- Select --Account AssistantChief Executive OfficerChief Financial OfficerChief Technical OfficerContent SpecialistCustomer Success ManagerDatabase AdministratorFinance ManagerFinancial AnalystHead of SupportHR AssociateHR ManagerIT ManagerNetwork AdministratorPayroll AdministratorPre-Sales CoordinatorQA EngineerQA LeadSales RepresentativeSocial Media MarketerSoftware ArchitectSoftware EngineerSupport SpecialistVP - Client ServicesVP - Sales &amp; Marketing')]</value>
+      <webElementGuid>bb93aebd-f8e1-4f77-a7b7-f27e98f0480f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to search employee based on a job title from the system and record the result</description>
+   <name>TC51 - Search Employee Based on Job Title</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4cf0cae7-e5cb-432b-afbe-03810e36f4ac</testCaseGuid>
+</TestCaseEntity>

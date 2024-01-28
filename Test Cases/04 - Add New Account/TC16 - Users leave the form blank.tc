@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to leave the form as blank and record the result</description>
+   <name>TC16 - Users leave the form blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efc1c894-2383-4bb0-b8c0-6d8e597affe5</testCaseGuid>
+</TestCaseEntity>

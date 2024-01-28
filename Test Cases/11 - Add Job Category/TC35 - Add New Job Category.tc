@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is positive test case. User has to successfullt add new job category into the system and record the result</description>
+   <name>TC35 - Add New Job Category</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dee8ce29-edce-4972-9cb8-9cf10cc404c0</testCaseGuid>
+</TestCaseEntity>

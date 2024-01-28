@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "B5A228A371EEB0A7A86466BCD543056C",
+  "keywordClasses": [
+    {
+      "name": "orangeHRM.addAccounts",
+      "keywordMethods": [
+        {
+          "name": "addAcc",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

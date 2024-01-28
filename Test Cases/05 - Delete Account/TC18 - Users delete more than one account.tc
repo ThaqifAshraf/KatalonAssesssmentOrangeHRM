@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to delete more than  one account</description>
+   <name>TC18 - Users delete more than one account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70a4b98e-41fb-4c17-8a18-17cbfad1b7c0</testCaseGuid>
+</TestCaseEntity>

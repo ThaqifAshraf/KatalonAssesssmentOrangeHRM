@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to search employee using on sub-unit and record the result</description>
+   <name>TC53 - Search Employee using on Sub-Unit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc1ff7d0-30dd-41b4-9919-93db029ca1cd</testCaseGuid>
+</TestCaseEntity>

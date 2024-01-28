@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to enter an already registered username and see the result</description>
+   <name>TC12 - Users enter the registered username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>017b79de-c23c-4324-93ad-d4959a5777d8</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to search an employee using name and record the result</description>
+   <name>TC48 - Search Employee Using Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>48203764-7db8-427e-8676-daeca854c1de</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>73864acd-fe2c-471e-b58e-189725880291</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>73864acd-fe2c-471e-b58e-189725880291</id>
+      <masked>false</masked>
+      <name>EmployeeName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to search an employee using ID and record the result</description>
+   <name>TC46 - Search Employee Using ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>314c496e-866e-4818-b427-60fc2da8437c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3a8db90c-6400-4107-b900-804e3695eaef</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a8db90c-6400-4107-b900-804e3695eaef</id>
+      <masked>false</masked>
+      <name>EmployeeID</name>
+   </variable>
+</TestCaseEntity>

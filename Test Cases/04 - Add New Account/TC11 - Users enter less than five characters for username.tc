@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User would need to enter less than five characters for username and record the results</description>
+   <name>TC11 - Users enter less than five characters for username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e0dd5bbc-add0-4c2f-b355-e5caaf5c0bd8</testCaseGuid>
+</TestCaseEntity>

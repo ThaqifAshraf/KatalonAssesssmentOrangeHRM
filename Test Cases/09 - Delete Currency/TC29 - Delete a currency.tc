@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to successfully delete a currency and record the result</description>
+   <name>TC29 - Delete a currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>775a54e3-2eca-4df0-96d9-1cbf1314b5a1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a call test that goes to login to admin and then lastly, PIM</description>
+   <name>Login-Admin-PIM</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>70f9ba4d-f380-4815-ab21-5b8243876494</testCaseGuid>
+</TestCaseEntity>

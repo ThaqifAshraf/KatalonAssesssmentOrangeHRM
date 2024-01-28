@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a positive test case. User has to enter add a new currency into the system and record the result</description>
+   <name>TC25 - Successfully add new currency</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b5e2ad6d-3ebb-4c33-901e-4db93f7d5d0a</testCaseGuid>
+</TestCaseEntity>

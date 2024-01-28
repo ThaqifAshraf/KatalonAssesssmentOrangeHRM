@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to enter and search for an invalid username and see the results.</description>
+   <name>TC08 - Users enter invalid username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7557f04c-b6a0-4fb9-a076-28aad20cff2a</testCaseGuid>
+</TestCaseEntity>

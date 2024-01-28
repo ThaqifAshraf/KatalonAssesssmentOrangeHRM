@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This is a negative test case. User has to register using an existing employee ID into the system and record the result</description>
+   <name>TC40 - Register using existing employee ID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e10ac121-841a-4953-a22b-f5fea63e4f6c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdownlist_Currency</name>
+   <tag></tag>
+   <elementGuidId>451c3b7e-dce1-4c5b-a465-1072d6e63807</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.oxd-select-dropdown.--positon-bottom</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div/div[4]/div/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d048e758-2624-452c-8c29-bed734de9ac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>listbox</value>
+      <webElementGuid>b1a858c4-9e04-4a65-bd37-4c98a8ea9a42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>oxd-select-dropdown --positon-bottom</value>
+      <webElementGuid>5096cb77-6144-4087-bad0-1a08b85578f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>fb3ea214-71dd-4247-a13d-231f9cfba436</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-- Select --Afghanistan AfghaniAlbanian LekAlgerian DinarAngolan New KwanzaArgentina PesosArgentine PesoAruban FlorinAustralian DollarBahamian DollarBahraini DinarBangladeshi TakaBarbados DollarBelize DollarBermudian DollarBhutan NgultrumBolivian BolivianoBotswana PulaBrazilian RealBrunei DollarBulgarian LevBurundi FrancCanadian DollarCape Verde EscudoCayman Islands DollarCFA Franc BCEAOCFA Franc BEACCFP FrancChilean PesoChinese Yuan RenminbiColombian PesoComoros FrancCosta Rican ColonCroatian KunaCuban PesoCyprus PoundCzech KorunaDanish KronaDjibouti FrancDominican PesoEastern Caribbean DollarsEcuador SucreEgyptian PoundEl Salvador ColonEstonian KronaEthiopian BirrEuroFalkland Islands PoundFiji DollarGambian DalasiGhanaian CediGibraltar PoundGold (oz.)Guatemalan QuetzalGuinea FrancGuyanan DollarHaitian GourdeHonduran LempiraHong Kong DollarHungarian ForintIceland KronaIMF Special Drawing RightIndian RupeeIndonesian RupiahIranian RialIraqi DinarIsraeli New ShekelJamaican DollarJapanese YenJordanian DinarKampuchean RielKazakhstan TengeKenyan ShillingKorean WonKuwaiti DinarLao KipLatvian LatsLebanese PoundLesotho LotiLiberian DollarLibyan DinarLithuanian LitasMacau PatacaMalagasy FrancMalawi KwachaMalaysian RinggitMaldive RufiyaaMaltese LiraMauritanian OuguiyaMauritius RupeeMexican New PesoMexican PesoMongolian TugrikMoroccan DirhamMozambique MeticalMyanmar KyatNamibia DollarNepalese RupeeNew ZaireNew Zealand DollarNicaraguan Cordoba OroNigerian NairaNL Antillian GuilderNorth Korean WonNorwegian KronaOmani RialPakistan RupeePalladium (oz.)Panamanian BalboaPapua New Guinea KinaParaguay GuaraniPeruvian Nuevo SolPhilippine PesoPlatinum (oz.)Polish ZlotyPound SterlingQatari RialRomanian LeuRussia RublesRussian RoubleSamoan TalaSao Tome/Principe DobraSaudi Arabia RiyalSeychelles RupeeSierra Leone LeoneSilver (oz.)Singapore DollarSlovak KorunaSolomon Islands DollarSomali ShillingSouth African RandSri Lanka RupeeSt. Helena PoundSudanese DinarSudanese PoundSurinamese DollarSwaziland LilangeniSwedish KronaSwiss FrancSyrian PoundTaiwan DollarTanzanian ShillingThai BahtTongan Pa'angaTrinidad/Tobago DollarTunisian DinarTurkish LiraUganda ShillingUkraine HryvniaUnited States DollarUruguayan PesoUtd. Arab Emir. DirhamVanuatu VatuVenezuelan BolivarVietnamese DongYemeni RiyalYugoslav DinarYugoslavian DinarZambian KwachaZimbabwe Dollar</value>
+      <webElementGuid>3dc6cc7b-78e5-4abc-931c-520c13d170c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/div[@class=&quot;orangehrm-edit-employee&quot;]/div[@class=&quot;orangehrm-edit-employee-content&quot;]/div[@class=&quot;orangehrm-horizontal-padding orangehrm-vertical-padding&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-grid-3 orangehrm-full-width-grid&quot;]/div[@class=&quot;oxd-grid-item oxd-grid-item--gutters&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/div[@class=&quot;oxd-select-wrapper&quot;]/div[@class=&quot;oxd-select-dropdown --positon-bottom&quot;]</value>
+      <webElementGuid>f3fc264d-7c09-42b0-ab24-c16ab4ad9d95</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div[2]/div/form/div/div/div[4]/div/div[2]/div/div[2]</value>
+      <webElementGuid>c4ee9763-d5b7-4deb-8044-2575b88f9edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-- Select --'])[3]/following::div[2]</value>
+      <webElementGuid>5b5e9eab-bd66-4b38-be78-e11e7362e45f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Currency'])[1]/following::div[6]</value>
+      <webElementGuid>422463ae-4869-478a-a3a8-48b5f7f27f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div[2]</value>
+      <webElementGuid>05805761-e0aa-4cf1-b934-f77205f3ed12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;-- Select --Afghanistan AfghaniAlbanian LekAlgerian DinarAngolan New KwanzaArgentina PesosArgentine PesoAruban FlorinAustralian DollarBahamian DollarBahraini DinarBangladeshi TakaBarbados DollarBelize DollarBermudian DollarBhutan NgultrumBolivian BolivianoBotswana PulaBrazilian RealBrunei DollarBulgarian LevBurundi FrancCanadian DollarCape Verde EscudoCayman Islands DollarCFA Franc BCEAOCFA Franc BEACCFP FrancChilean PesoChinese Yuan RenminbiColombian PesoComoros FrancCosta Rican ColonCroatian KunaCuban PesoCyprus PoundCzech KorunaDanish KronaDjibouti FrancDominican PesoEastern Caribbean DollarsEcuador SucreEgyptian PoundEl Salvador ColonEstonian KronaEthiopian BirrEuroFalkland Islands PoundFiji DollarGambian DalasiGhanaian CediGibraltar PoundGold (oz.)Guatemalan QuetzalGuinea FrancGuyanan DollarHaitian GourdeHonduran LempiraHong Kong DollarHungarian ForintIceland KronaIMF Special Drawing RightIndian RupeeIndonesian RupiahIranian RialIraqi DinarIsraeli New ShekelJamaican DollarJapanese YenJordanian DinarKampuchean RielKazakhstan TengeKenyan ShillingKorean WonKuwaiti DinarLao KipLatvian LatsLebanese PoundLesotho LotiLiberian DollarLibyan DinarLithuanian LitasMacau PatacaMalagasy FrancMalawi KwachaMalaysian RinggitMaldive RufiyaaMaltese LiraMauritanian OuguiyaMauritius RupeeMexican New PesoMexican PesoMongolian TugrikMoroccan DirhamMozambique MeticalMyanmar KyatNamibia DollarNepalese RupeeNew ZaireNew Zealand DollarNicaraguan Cordoba OroNigerian NairaNL Antillian GuilderNorth Korean WonNorwegian KronaOmani RialPakistan RupeePalladium (oz.)Panamanian BalboaPapua New Guinea KinaParaguay GuaraniPeruvian Nuevo SolPhilippine PesoPlatinum (oz.)Polish ZlotyPound SterlingQatari RialRomanian LeuRussia RublesRussian RoubleSamoan TalaSao Tome/Principe DobraSaudi Arabia RiyalSeychelles RupeeSierra Leone LeoneSilver (oz.)Singapore DollarSlovak KorunaSolomon Islands DollarSomali ShillingSouth African RandSri Lanka RupeeSt. Helena PoundSudanese DinarSudanese PoundSurinamese DollarSwaziland LilangeniSwedish KronaSwiss FrancSyrian PoundTaiwan DollarTanzanian ShillingThai BahtTongan Pa&quot; , &quot;'&quot; , &quot;angaTrinidad/Tobago DollarTunisian DinarTurkish LiraUganda ShillingUkraine HryvniaUnited States DollarUruguayan PesoUtd. Arab Emir. DirhamVanuatu VatuVenezuelan BolivarVietnamese DongYemeni RiyalYugoslav DinarYugoslavian DinarZambian KwachaZimbabwe Dollar&quot;) or . = concat(&quot;-- Select --Afghanistan AfghaniAlbanian LekAlgerian DinarAngolan New KwanzaArgentina PesosArgentine PesoAruban FlorinAustralian DollarBahamian DollarBahraini DinarBangladeshi TakaBarbados DollarBelize DollarBermudian DollarBhutan NgultrumBolivian BolivianoBotswana PulaBrazilian RealBrunei DollarBulgarian LevBurundi FrancCanadian DollarCape Verde EscudoCayman Islands DollarCFA Franc BCEAOCFA Franc BEACCFP FrancChilean PesoChinese Yuan RenminbiColombian PesoComoros FrancCosta Rican ColonCroatian KunaCuban PesoCyprus PoundCzech KorunaDanish KronaDjibouti FrancDominican PesoEastern Caribbean DollarsEcuador SucreEgyptian PoundEl Salvador ColonEstonian KronaEthiopian BirrEuroFalkland Islands PoundFiji DollarGambian DalasiGhanaian CediGibraltar PoundGold (oz.)Guatemalan QuetzalGuinea FrancGuyanan DollarHaitian GourdeHonduran LempiraHong Kong DollarHungarian ForintIceland KronaIMF Special Drawing RightIndian RupeeIndonesian RupiahIranian RialIraqi DinarIsraeli New ShekelJamaican DollarJapanese YenJordanian DinarKampuchean RielKazakhstan TengeKenyan ShillingKorean WonKuwaiti DinarLao KipLatvian LatsLebanese PoundLesotho LotiLiberian DollarLibyan DinarLithuanian LitasMacau PatacaMalagasy FrancMalawi KwachaMalaysian RinggitMaldive RufiyaaMaltese LiraMauritanian OuguiyaMauritius RupeeMexican New PesoMexican PesoMongolian TugrikMoroccan DirhamMozambique MeticalMyanmar KyatNamibia DollarNepalese RupeeNew ZaireNew Zealand DollarNicaraguan Cordoba OroNigerian NairaNL Antillian GuilderNorth Korean WonNorwegian KronaOmani RialPakistan RupeePalladium (oz.)Panamanian BalboaPapua New Guinea KinaParaguay GuaraniPeruvian Nuevo SolPhilippine PesoPlatinum (oz.)Polish ZlotyPound SterlingQatari RialRomanian LeuRussia RublesRussian RoubleSamoan TalaSao Tome/Principe DobraSaudi Arabia RiyalSeychelles RupeeSierra Leone LeoneSilver (oz.)Singapore DollarSlovak KorunaSolomon Islands DollarSomali ShillingSouth African RandSri Lanka RupeeSt. Helena PoundSudanese DinarSudanese PoundSurinamese DollarSwaziland LilangeniSwedish KronaSwiss FrancSyrian PoundTaiwan DollarTanzanian ShillingThai BahtTongan Pa&quot; , &quot;'&quot; , &quot;angaTrinidad/Tobago DollarTunisian DinarTurkish LiraUganda ShillingUkraine HryvniaUnited States DollarUruguayan PesoUtd. Arab Emir. DirhamVanuatu VatuVenezuelan BolivarVietnamese DongYemeni RiyalYugoslav DinarYugoslavian DinarZambian KwachaZimbabwe Dollar&quot;))]</value>
+      <webElementGuid>b10d2f94-b09d-49d5-bd70-439f2e5a6285</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
